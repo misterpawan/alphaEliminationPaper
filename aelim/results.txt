@@ -1,0 +1,500 @@
+File  <DirEntry '4.mat'>
+Colmd -  15 5 20
+MCTS -  15 4 19
+Naive -  80 82 162
+=========================
+File  <DirEntry '21.mat'>
+Colmd -  15 3 18
+MCTS -  15 4 19
+Naive -  72 75 147
+=========================
+File  <DirEntry '85.mat'>
+Colmd -  15 4 19
+MCTS -  15 3 18
+Naive -  80 85 165
+=========================
+File  <DirEntry '40.mat'>
+Colmd -  15 6 21
+MCTS -  15 3 18
+Naive -  69 89 158
+=========================
+File  <DirEntry '39.mat'>
+Colmd -  15 3 18
+MCTS -  15 5 20
+Naive -  68 64 132
+=========================
+File  <DirEntry '20.mat'>
+Colmd -  15 3 18
+MCTS -  15 5 20
+Naive -  64 76 140
+=========================
+File  <DirEntry '17.mat'>
+Colmd -  15 4 19
+MCTS -  15 3 18
+Naive -  80 80 160
+=========================
+File  <DirEntry '94.mat'>
+Colmd -  15 4 19
+MCTS -  15 6 21
+Naive -  68 85 153
+=========================
+File  <DirEntry '57.mat'>
+Colmd -  15 7 22
+MCTS -  15 4 19
+Naive -  61 83 144
+=========================
+File  <DirEntry '51.mat'>
+Colmd -  15 3 18
+MCTS -  15 7 22
+Naive -  88 84 172
+=========================
+File  <DirEntry '95.mat'>
+Colmd -  15 3 18
+MCTS -  15 3 18
+Naive -  78 73 151
+=========================
+File  <DirEntry '50.mat'>
+Colmd -  15 3 18
+MCTS -  15 4 19
+Naive -  73 79 152
+=========================
+File  <DirEntry '90.mat'>
+Colmd -  15 4 19
+MCTS -  15 6 21
+Naive -  65 86 151
+=========================
+File  <DirEntry '44.mat'>
+Colmd -  15 3 18
+MCTS -  15 7 22
+Naive -  52 82 134
+=========================
+File  <DirEntry '10.mat'>
+Colmd -  15 5 20
+MCTS -  15 4 19
+Naive -  65 78 143
+=========================
+File  <DirEntry '11.mat'>
+Colmd -  15 2 17
+MCTS -  15 4 19
+Naive -  76 84 160
+=========================
+File  <DirEntry '31.mat'>
+Colmd -  15 5 20
+MCTS -  15 3 18
+Naive -  81 69 150
+=========================
+File  <DirEntry '30.mat'>
+Colmd -  15 4 19
+MCTS -  15 7 22
+Naive -  81 83 164
+=========================
+File  <DirEntry '99.mat'>
+Colmd -  15 5 20
+MCTS -  15 5 20
+Naive -  58 78 136
+=========================
+File  <DirEntry '45.mat'>
+Colmd -  15 4 19
+MCTS -  15 6 21
+Naive -  85 93 178
+=========================
+File  <DirEntry '75.mat'>
+Colmd -  15 6 21
+MCTS -  15 7 22
+Naive -  68 72 140
+=========================
+File  <DirEntry '29.mat'>
+Colmd -  15 1 16
+MCTS -  15 9 24
+Naive -  77 87 164
+=========================
+File  <DirEntry '76.mat'>
+Colmd -  15 5 20
+MCTS -  15 8 23
+Naive -  71 82 153
+=========================
+File  <DirEntry '8.mat'>
+Colmd -  15 6 21
+MCTS -  15 5 20
+Naive -  68 85 153
+=========================
+File  <DirEntry '27.mat'>
+Colmd -  15 5 20
+MCTS -  15 4 19
+Naive -  75 101 176
+=========================
+File  <DirEntry '13.mat'>
+Colmd -  15 4 19
+MCTS -  15 8 23
+Naive -  68 86 154
+=========================
+File  <DirEntry '9.mat'>
+Colmd -  15 1 16
+MCTS -  15 3 18
+Naive -  75 90 165
+=========================
+File  <DirEntry '16.mat'>
+Colmd -  15 3 18
+MCTS -  15 5 20
+Naive -  62 79 141
+=========================
+File  <DirEntry '97.mat'>
+Colmd -  15 3 18
+MCTS -  15 4 19
+Naive -  86 76 162
+=========================
+File  <DirEntry '59.mat'>
+Colmd -  15 7 22
+MCTS -  15 4 19
+Naive -  89 85 174
+=========================
+File  <DirEntry '24.mat'>
+Colmd -  15 2 17
+MCTS -  15 4 19
+Naive -  87 76 163
+=========================
+File  <DirEntry '77.mat'>
+Colmd -  15 5 20
+MCTS -  15 6 21
+Naive -  63 75 138
+=========================
+File  <DirEntry '98.mat'>
+Colmd -  15 4 19
+MCTS -  15 5 20
+Naive -  80 80 160
+=========================
+File  <DirEntry '48.mat'>
+Colmd -  15 7 22
+MCTS -  15 4 19
+Naive -  65 66 131
+=========================
+File  <DirEntry '73.mat'>
+Colmd -  15 2 17
+MCTS -  15 6 21
+Naive -  74 85 159
+=========================
+File  <DirEntry '19.mat'>
+Colmd -  15 4 19
+MCTS -  15 2 17
+Naive -  69 79 148
+=========================
+File  <DirEntry '72.mat'>
+Colmd -  15 4 19
+MCTS -  15 7 22
+Naive -  76 75 151
+=========================
+File  <DirEntry '81.mat'>
+Colmd -  15 6 21
+MCTS -  15 7 22
+Naive -  58 80 138
+=========================
+File  <DirEntry '32.mat'>
+Colmd -  15 5 20
+MCTS -  15 6 21
+Naive -  71 84 155
+=========================
+File  <DirEntry '82.mat'>
+Colmd -  15 2 17
+MCTS -  15 5 20
+Naive -  61 74 135
+=========================
+File  <DirEntry '78.mat'>
+Colmd -  15 4 19
+MCTS -  15 6 21
+Naive -  88 75 163
+=========================
+File  <DirEntry '83.mat'>
+Colmd -  15 7 22
+MCTS -  15 3 18
+Naive -  66 80 146
+=========================
+File  <DirEntry '18.mat'>
+Colmd -  15 3 18
+MCTS -  15 6 21
+Naive -  67 70 137
+=========================
+File  <DirEntry '61.mat'>
+Colmd -  15 6 21
+MCTS -  15 5 20
+Naive -  69 84 153
+=========================
+File  <DirEntry '55.mat'>
+Colmd -  15 6 21
+MCTS -  15 9 24
+Naive -  65 71 136
+=========================
+File  <DirEntry '63.mat'>
+Colmd -  15 4 19
+MCTS -  15 5 20
+Naive -  82 78 160
+=========================
+File  <DirEntry '43.mat'>
+Colmd -  15 2 17
+MCTS -  15 4 19
+Naive -  64 70 134
+=========================
+File  <DirEntry '22.mat'>
+Colmd -  15 6 21
+MCTS -  15 2 17
+Naive -  62 79 141
+=========================
+File  <DirEntry '96.mat'>
+Colmd -  15 5 20
+MCTS -  15 4 19
+Naive -  74 80 154
+=========================
+File  <DirEntry '88.mat'>
+Colmd -  15 8 23
+MCTS -  15 4 19
+Naive -  72 80 152
+=========================
+File  <DirEntry '23.mat'>
+Colmd -  15 4 19
+MCTS -  15 3 18
+Naive -  82 76 158
+=========================
+File  <DirEntry '41.mat'>
+Colmd -  15 4 19
+MCTS -  15 4 19
+Naive -  78 90 168
+=========================
+File  <DirEntry '100.mat'>
+Colmd -  15 4 19
+MCTS -  15 3 18
+Naive -  82 77 159
+=========================
+File  <DirEntry '37.mat'>
+Colmd -  15 3 18
+MCTS -  15 2 17
+Naive -  68 68 136
+=========================
+File  <DirEntry '66.mat'>
+Colmd -  15 5 20
+MCTS -  15 4 19
+Naive -  83 77 160
+=========================
+File  <DirEntry '67.mat'>
+Colmd -  15 5 20
+MCTS -  15 3 18
+Naive -  75 82 157
+=========================
+File  <DirEntry '70.mat'>
+Colmd -  15 5 20
+MCTS -  15 4 19
+Naive -  74 78 152
+=========================
+File  <DirEntry '15.mat'>
+Colmd -  15 4 19
+MCTS -  15 8 23
+Naive -  72 76 148
+=========================
+File  <DirEntry '28.mat'>
+Colmd -  15 5 20
+MCTS -  15 4 19
+Naive -  77 70 147
+=========================
+File  <DirEntry '33.mat'>
+Colmd -  15 1 16
+MCTS -  15 6 21
+Naive -  65 67 132
+=========================
+File  <DirEntry '60.mat'>
+Colmd -  15 5 20
+MCTS -  15 3 18
+Naive -  69 76 145
+=========================
+File  <DirEntry '56.mat'>
+Colmd -  15 5 20
+MCTS -  15 5 20
+Naive -  75 76 151
+=========================
+File  <DirEntry '69.mat'>
+Colmd -  15 6 21
+MCTS -  15 3 18
+Naive -  61 69 130
+=========================
+File  <DirEntry '86.mat'>
+Colmd -  15 6 21
+MCTS -  15 3 18
+Naive -  82 83 165
+=========================
+File  <DirEntry '79.mat'>
+Colmd -  15 5 20
+MCTS -  15 5 20
+Naive -  81 84 165
+=========================
+File  <DirEntry '52.mat'>
+Colmd -  15 0 15
+MCTS -  15 5 20
+Naive -  79 78 157
+=========================
+File  <DirEntry '34.mat'>
+Colmd -  15 2 17
+MCTS -  15 4 19
+Naive -  76 77 153
+=========================
+File  <DirEntry '2.mat'>
+Colmd -  15 6 21
+MCTS -  15 8 23
+Naive -  78 80 158
+=========================
+File  <DirEntry '3.mat'>
+Colmd -  15 1 16
+MCTS -  15 6 21
+Naive -  71 69 140
+=========================
+File  <DirEntry '25.mat'>
+Colmd -  15 7 22
+MCTS -  15 6 21
+Naive -  65 84 149
+=========================
+File  <DirEntry '65.mat'>
+Colmd -  15 5 20
+MCTS -  15 3 18
+Naive -  71 70 141
+=========================
+File  <DirEntry '1.mat'>
+Colmd -  15 4 19
+MCTS -  15 7 22
+Naive -  66 60 126
+=========================
+File  <DirEntry '12.mat'>
+Colmd -  15 3 18
+MCTS -  15 2 17
+Naive -  70 78 148
+=========================
+File  <DirEntry '36.mat'>
+Colmd -  15 3 18
+MCTS -  15 5 20
+Naive -  79 76 155
+=========================
+File  <DirEntry '26.mat'>
+Colmd -  15 7 22
+MCTS -  15 5 20
+Naive -  86 77 163
+=========================
+File  <DirEntry '35.mat'>
+Colmd -  15 7 22
+MCTS -  15 3 18
+Naive -  68 77 145
+=========================
+File  <DirEntry '92.mat'>
+Colmd -  15 7 22
+MCTS -  15 5 20
+Naive -  92 94 186
+=========================
+File  <DirEntry '14.mat'>
+Colmd -  15 4 19
+MCTS -  15 9 24
+Naive -  69 89 158
+=========================
+File  <DirEntry '74.mat'>
+Colmd -  15 2 17
+MCTS -  15 4 19
+Naive -  57 79 136
+=========================
+File  <DirEntry '54.mat'>
+Colmd -  15 1 16
+MCTS -  15 4 19
+Naive -  66 72 138
+=========================
+File  <DirEntry '71.mat'>
+Colmd -  15 4 19
+MCTS -  15 4 19
+Naive -  62 68 130
+=========================
+File  <DirEntry '49.mat'>
+Colmd -  15 2 17
+MCTS -  15 2 17
+Naive -  72 83 155
+=========================
+File  <DirEntry '80.mat'>
+Colmd -  15 4 19
+MCTS -  15 4 19
+Naive -  58 73 131
+=========================
+File  <DirEntry '93.mat'>
+Colmd -  15 9 24
+MCTS -  15 5 20
+Naive -  83 75 158
+=========================
+File  <DirEntry '84.mat'>
+Colmd -  15 7 22
+MCTS -  15 4 19
+Naive -  55 84 139
+=========================
+File  <DirEntry '87.mat'>
+Colmd -  15 3 18
+MCTS -  15 5 20
+Naive -  68 70 138
+=========================
+File  <DirEntry '64.mat'>
+Colmd -  15 5 20
+MCTS -  15 4 19
+Naive -  75 78 153
+=========================
+File  <DirEntry '6.mat'>
+Colmd -  15 6 21
+MCTS -  15 4 19
+Naive -  76 75 151
+=========================
+File  <DirEntry '89.mat'>
+Colmd -  15 5 20
+MCTS -  15 5 20
+Naive -  72 74 146
+=========================
+File  <DirEntry '5.mat'>
+Colmd -  15 7 22
+MCTS -  15 5 20
+Naive -  53 70 123
+=========================
+File  <DirEntry '53.mat'>
+Colmd -  15 3 18
+MCTS -  15 5 20
+Naive -  72 82 154
+=========================
+File  <DirEntry '47.mat'>
+Colmd -  15 5 20
+MCTS -  15 9 24
+Naive -  86 67 153
+=========================
+File  <DirEntry '58.mat'>
+Colmd -  15 5 20
+MCTS -  15 5 20
+Naive -  69 81 150
+=========================
+File  <DirEntry '38.mat'>
+Colmd -  15 4 19
+MCTS -  15 6 21
+Naive -  65 73 138
+=========================
+File  <DirEntry '46.mat'>
+Colmd -  15 1 16
+MCTS -  15 5 20
+Naive -  67 83 150
+=========================
+File  <DirEntry '42.mat'>
+Colmd -  15 2 17
+MCTS -  15 1 16
+Naive -  71 77 148
+=========================
+File  <DirEntry '7.mat'>
+Colmd -  15 5 20
+MCTS -  15 6 21
+Naive -  65 78 143
+=========================
+File  <DirEntry '91.mat'>
+Colmd -  15 3 18
+MCTS -  15 6 21
+Naive -  64 76 140
+=========================
+File  <DirEntry '68.mat'>
+Colmd -  15 5 20
+MCTS -  15 3 18
+Naive -  96 95 191
+=========================
+File  <DirEntry '62.mat'>
+Colmd -  15 7 22
+MCTS -  15 7 22
+Naive -  71 88 159
+=========================
