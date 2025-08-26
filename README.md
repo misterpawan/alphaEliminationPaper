@@ -29,38 +29,6 @@ Reduce fill-in during sparse matrix factorization using a deep-RL approach that 
 - **Approach**: Single-agent RL with **MCTS + neural policy/value** to select the next elimination choice.  
 - **Outcome**: Fewer nonzeros in \(L\) and \(U\) vs. popular heuristics, with comparable wall-clock.  
 
----
-
-## Repository Structure
-
-```
-alphaEliminationPaper/
-├─ src/
-│  ├─ alpha_elimination/
-│  │  ├─ envs/           # Sparse matrix elimination environment
-│  │  ├─ mcts/           # MCTS search, node/edge, UCT, rollout
-│  │  ├─ models/         # Policy/Value networks
-│  │  ├─ utils/          # io, logging, metrics, seeding
-│  │  └─ train.py        # Training loop (self-play or dataset-driven)
-│  └─ cli/               # Command-line entry points
-├─ configs/
-│  ├─ default.yaml       # Training & model hyperparameters
-│  ├─ eval.yaml          # Evaluation settings
-│  └─ baselines.yaml     # Heuristic baselines configuration
-├─ data/
-│  ├─ suitesparse/       # (optional) matrices or list files
-│  └─ toy/               # small matrices for smoke tests
-├─ scripts/
-│  ├─ prepare_data.py    # Download/convert matrices
-│  ├─ run_train.sh       # Example training runner
-│  └─ run_eval.sh        # Example evaluation runner
-├─ notebooks/
-│  └─ analysis.ipynb     # Plots, ablations
-├─ requirements.txt
-└─ README.md
-```
-
----
 
 ## Installation
 
@@ -84,34 +52,17 @@ If you use GPU acceleration for the factorization backends or PyTorch, ensure th
 
 ## Quickstart
 
-### 1) Smoke test on toy matrices
+### 1) Test on toy matrices
 
-```bash
-# Train a small policy/value model with MCTS on toy 20x20 matrices
-python -m src.alpha_elimination.train \
-  --config configs/default.yaml \
-  --data_dir data/toy \
-  --log_dir runs/toy
-```
+
 
 ### 2) Evaluate vs. baselines
 
-```bash
-python -m src.alpha_elimination.eval \
-  --config configs/eval.yaml \
-  --checkpoint runs/toy/best.ckpt \
-  --mat_list data/toy/list.txt \
-  --baselines AMD RCM COLAMD METIS \
-  --out results/toy_eval.json
-```
+
 
 ### 3) Plot results
 
-```bash
-python -m src.alpha_elimination.analysis.plot \
-  --results results/toy_eval.json \
-  --savefig results/toy_eval.png
-```
+
 
 ---
 
@@ -125,22 +76,11 @@ python scripts/prepare_data.py --suite suitesparse --out data/suitesparse
 
 2. **Train**:
 
-```bash
-bash scripts/run_train.sh \
-  --config configs/default.yaml \
-  --data_dir data/suitesparse \
-  --log_dir runs/suitesparse
-```
+
 
 3. **Evaluate** (on held-out matrices):
 
-```bash
-bash scripts/run_eval.sh \
-  --config configs/eval.yaml \
-  --checkpoint runs/suitesparse/best.ckpt \
-  --mat_list data/suitesparse/test_list.txt \
-  --out results/suitesparse_eval.json
-```
+
 
 > Tip: For determinism, set seeds in the config and export `OMP_NUM_THREADS=1`.
 
@@ -155,22 +95,6 @@ bash scripts/run_eval.sh \
 ---
 
 ## Configuration
-
-All hyperparameters live in YAML files under `configs/`:
-
-- `default.yaml`: network size, optimizer, learning rate schedule, MCTS parameters (simulations, UCT constant), replay buffer, curriculum, etc.
-- `eval.yaml`: evaluation batch size, factorization backend, metrics to compute.
-- `baselines.yaml`: toggles/params for AMD/RCM/COLAMD/METIS backends where available.
-
-Override any key from the CLI:
-
-```bash
-python -m src.alpha_elimination.train \
-  --config configs/default.yaml \
-  trainer.max_steps=200000 \
-  mcts.simulations=1600 \
-  model.hidden_dim=256
-```
 
 ---
 
